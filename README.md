@@ -100,11 +100,11 @@ git clone https://github.com/azazynd/FarmConnect.git
 ![Home Page](Images/homepage.png)
 
   Admin Dashboard
-![Admin Dashboard](Images/admin dashboard.png)
-![Admin Dashboard 2](Images/admin dashboard2.png)
+![Admin Dashboard](Images/admin_dashboard.png)
+![Admin Dashboard 2](Images/admin_dashboard2.png)
 
   Consumer Dashboard
-![Consumer Dashboard](Images/consumer dashboard.png)
+![Consumer Dashboard](Images/consumer_dashboard.png)
 
    Farmer Dashboard
 ![Farmer Dashboard](Images/farmer_dashboard.png)
