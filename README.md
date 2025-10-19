@@ -65,7 +65,7 @@ It ensures secure, verified transactions, admin-moderated content, and real-time
 1. Clone the repository:
 
 
-git clone https://github.com/yourusername/FarmConnect.git
+git clone https://github.com/azazynd/FarmConnect.git
 
 
 2. Import the MySQL database:
@@ -101,7 +101,7 @@ git clone https://github.com/yourusername/FarmConnect.git
 
   Admin Dashboard
 ![Admin Dashboard](Images/admin dashboard.png)
-![Admin Dashboard 2](Images/admin dashboard_2.png)
+![Admin Dashboard 2](Images/admin dashboard2.png)
 
   Consumer Dashboard
 ![Consumer Dashboard](Images/consumer dashboard.png)
